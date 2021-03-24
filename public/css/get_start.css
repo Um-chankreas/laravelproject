@@ -1,0 +1,47 @@
+body{
+    background-color: ghostwhite;
+}
+.getstart{
+    border: 1px solid transparent;
+    font-family: 'Sniglet', cursive;
+    background-color: whitesmoke;
+    margin: auto;
+    padding-left: 27px;
+    width: 500px;
+    margin-top: 20px;
+    height: 500px;
+}
+#h1{
+    margin-left: 155px;
+}
+#emails{
+    color: red;
+}
+#phone_numbers{
+    color: red;
+}
+#Passwords{
+    color: red;
+}
+#first_name{
+    color: red;
+}
+#lasts_name{
+    color: red;
+}
+.btn-success{
+   margin-left: 350px;
+   width: 100px;
+    margin-top: 70px;
+
+}
+input[type='text'],input[type='email'],input[type='date'],input[type='password']{
+    border: 1px solid;
+    width: 200px;
+    height: 30px;
+}
+.form-control{
+    border: 1px solid;
+    width: 200px;
+    height: 35px;
+}
